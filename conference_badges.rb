@@ -1,9 +1,9 @@
+
 attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace",
 "Linus", "Matz"]
 
-badge_maker (name)
+batch_badge_creater (name)
     attendees.each{|name| puts "Hello, my name is #{attendees}!"}
-    puts "Hello, my name is #{attendees}!"
   end
                 
             
