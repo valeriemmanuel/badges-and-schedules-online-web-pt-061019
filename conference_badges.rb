@@ -1,8 +1,8 @@
 attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace",
 "Linus", "Matz"]
 
-
-    brothers.each{|name| puts "Hello, my name is #{attendees}!"}
+badge_maker (name)
+    attendees.each{|name| puts "Hello, my name is #{attendees}!"}
     puts "Hello, my name is #{attendees}!"
   end
                 
