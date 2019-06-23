@@ -1,6 +1,6 @@
 attendees = {"Edsger", "Ada", "Charles", "Alan", "Grace",
 "Linus", "Matz"}
-  
+  primary_colors.each do |name|
                   "Hello, my name is Edsger.",
                   "Hello, my name is Ada.",
                   "Hello, my name is Charles.",
