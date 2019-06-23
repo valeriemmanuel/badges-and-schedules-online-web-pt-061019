@@ -1,5 +1,5 @@
 let(:attendees) {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
-  let(:badges) {[
+  let(:b{[
                   "Hello, my name is Edsger.",
                   "Hello, my name is Ada.",
                   "Hello, my name is Charles.",
