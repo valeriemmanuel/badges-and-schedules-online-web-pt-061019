@@ -4,6 +4,6 @@ attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace",
 
 batch_badge_creater (name)
     attendees.each{|name| puts "Hello, my name is #{attendees}!"}
-  end
+  
                 
             
