@@ -1,7 +1,10 @@
 attendees = {"Edsger", "Ada", "Charles", "Alan", "Grace",
 "Linus", "Matz"}
   attendees.each do |name|
-    puts
+    puts 
+    
+    
+  end
                   "Hello, my name is Edsger.",
                   "Hello, my name is Ada.",
                   "Hello, my name is Charles.",
