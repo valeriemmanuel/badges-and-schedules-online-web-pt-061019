@@ -1,4 +1,5 @@
-attendees {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
+attendees = {"Edsger", "Ada", "Charles", "Alan", "Grace",
+"Linus", "Matz"}
   
                   "Hello, my name is Edsger.",
                   "Hello, my name is Ada.",
@@ -7,4 +8,4 @@ attendees {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
                   "Hello, my name is Grace.",
                   "Hello, my name is Linus.",
                   "Hello, my name is Matz."
-               ]}# Write your code here.
+            
