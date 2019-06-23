@@ -1,5 +1,5 @@
-let(:attendees) {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
-  let(:b{[
+attendees {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
+  
                   "Hello, my name is Edsger.",
                   "Hello, my name is Ada.",
                   "Hello, my name is Charles.",
